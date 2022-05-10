@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: run
+Class-Path: mssql-jdbc-10.2.0.jre17.jar
+
